@@ -1,0 +1,9 @@
+Happy Face: When you will click on it with the mouse the screen pet will blush and it will look happy.
+
+Cheeky Face: If you double-click it, then it will show its tongue to you.
+
+Sad Face: If you ignore it then it will become sad and the point where you click then it will become happy again.
+
+
+library used:for ubuntu
+sudo apt-get install python3-tk
